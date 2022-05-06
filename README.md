@@ -28,6 +28,6 @@ A gridview will pop up with the results
 A CSV file is automatically registered into the local folder
 
 ##Contributors
-  - clement LAVOILLOTTE
-  - benoit ESTRADE
+  - Clement LAVOILLOTTE
+  - Benoit ESTRADE
     
