@@ -4,9 +4,12 @@ This function retrieved service accounts logged in a pool of computer passed as 
 It uses WMI requests.
 #Warning : computers need to be on while they are being searched.
 
+```PowerShell
+import-module serviceAccountFinderModule.ps1
+```
+
 ##PARAMETER 
         -dn : specify a string with the scope of the search (specify an OU or a specific computer)
-        -all : get every computers in the domain (not recommanded)
         - input_csv : take as input a csv list of computer names to look up
         
 ##EXAMPLE
